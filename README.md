@@ -8,7 +8,6 @@ A web application that dynamically generates multiplication tables for numbers f
 
 - [Overview](#overview)
 - [Features](#features)
-- [Live Demo](#live-demo)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
@@ -29,16 +28,6 @@ The application is designed to be responsive, using modern web technologies like
 - **User-Friendly Interface:** Clean and simple design with clear headings and neatly arranged tables.
 - **Cross-Browser Compatibility:** Works smoothly across all modern web browsers.
 
-## Live Demo
-
-Check out the live demo [here](#) (replace with the link to your deployed project if available).
-
 ## Installation
 
 To run this project locally, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/your-username/multiplication-tables.git
-   ```
